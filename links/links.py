@@ -13,8 +13,6 @@ class Links(commands.Cog):
         em.add_field(name="🔗 Elixir Invite:-",value=f"[Elixir Invite](https://top.gg/bot/732916004656513077/invite)",inline=False)
         em.add_field(name="🔗 Elixir Support Server:-",value=f"[Support Server](https://discord.gg/padK6GW)",inline=False)
         em.add_field(name="🔗 Elixir Website:-",value=f"[Elixir Website](https://bit.ly/elixirbot)",inline=False)
-        em.add_field(name="🔗 Elixir Patreon:-",value=f"[Elixir Patreon](https://www.patreon.com/join/Elixir_Bot)",inline=False)
-        em.add_field(name="🔗 Elixir Premium:-",value=f"[Elixir Premium](https://bit.ly/elixirpremium)",inline=False)
         em.add_field(name="🔗 Elixir top.gg:-",value=f"[Top.gg](https://top.gg/bot/732916004656513077)",inline=False)
         em.add_field(name="🔗 Elixir Status:-",value=f"[Status](https://elixir.betteruptime.com/)",inline=False)
         em.add_field(name="🔗 Elixir Partner:-",value=f"[Elixir Partner](https://forms.gle/fFkpucye3fn9vbow8)",inline=False)
