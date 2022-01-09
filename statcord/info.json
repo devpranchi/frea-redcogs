@@ -1,9 +1,9 @@
 {
-    "name": "Setup",
-    "short": "Just a simple but noice setup command.",
-    "description": "Just a simple but noice setup command.",
+    "name": "statcord",
+    "short": "Just a simple but noice statcord command.",
+    "description": "Just a simple but noice statcord command.",
     "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-    "install_msg": "Thank you for installing setup!",
+    "install_msg": "Thank you for installing statcord!",
     "author": [
         "scypher"
     ],
