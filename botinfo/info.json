@@ -1,7 +1,7 @@
 {
     "name": "Botinfo",
-    "short": "This cog is dedicated to give information about elixir",
-    "description": "This cog is dedicated to give information about elixir",
+    "short": "Mainly for use on Frea#5613, but feel free to fork it.",
+    "description": "This cog is dedicated to give information about Frea and its functions.",
     "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
     "install_msg": "Thank you for installing botinfo!",
     "author": [
